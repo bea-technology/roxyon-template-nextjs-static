@@ -1,0 +1,9 @@
+{
+  "name": "roxyon-template-nextjs-static",
+  "host": "my-next.roxyon.com",
+  "folder": "",
+  "runtime": "lumen",
+  "kind": "static",
+  "build": "npm run build",
+  "outDir": "out"
+}
